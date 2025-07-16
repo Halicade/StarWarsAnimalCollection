@@ -1,5 +1,8 @@
 # Changelog for StarWarsAnimalCollection
 
+1.6.2 - Fix for Vanilla Expanded Framework namespace changes
+
+
 1.6.1 - Fixed missing unfertilized egg-defs and fixed the asset bundle unique-path
 
 

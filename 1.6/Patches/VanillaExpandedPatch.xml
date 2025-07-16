@@ -9,13 +9,13 @@
         <li Class="PatchOperationAdd">
           <xpath>Defs/ThingDef[defName="Bogwing" or defName="CanCell" or defName="Dactillion" or defName="Hawkbat" or defName="Beldon" or defName="Convor" or defName="PekoPeko" or defName="Shyrack" or defName="Thranta" or defName="Whisperbird" or defName="Drexl"]/comps</xpath>
           <value>
-            <li Class="AnimalBehaviours.CompProperties_Floating" />
+            <li Class="VEF.AnimalBehaviours.CompProperties_Floating" />
           </value>
         </li>
         <li Class="PatchOperationAdd">
           <xpath>Defs/ThingDef[defName="Aiwha"]/comps</xpath>
           <value>
-            <li Class="AnimalBehaviours.CompProperties_DigWhenHungry">
+            <li Class="VEF.AnimalBehaviours.CompProperties_DigWhenHungry">
               <customThingsToDig>
                 <li>Crustapod_Meat</li>
               </customThingsToDig>
@@ -30,7 +30,7 @@
         <li Class="PatchOperationAdd">
           <xpath>Defs/ThingDef[defName="FrogDog"]/comps</xpath>
           <value>
-            <li Class="AnimalBehaviours.CompProperties_DigWhenHungry">
+            <li Class="VEF.AnimalBehaviours.CompProperties_DigWhenHungry">
               <customThingsToDig>
                 <li>Insectile_Meat</li>
               </customThingsToDig>
@@ -45,7 +45,7 @@
         <li Class="PatchOperationAdd">
           <xpath>Defs/ThingDef[defName="Strill"]/comps</xpath>
           <value>
-            <li Class="AnimalBehaviours.CompProperties_DigWhenHungry">
+            <li Class="VEF.AnimalBehaviours.CompProperties_DigWhenHungry">
               <customThingsToDig>
                 <li>Insectile_Meat</li>
               </customThingsToDig>
@@ -60,7 +60,7 @@
         <li Class="PatchOperationAdd">
           <xpath>Defs/ThingDef[defName="Orray"]/comps</xpath>
           <value>
-            <li Class="AnimalBehaviours.CompProperties_DigWhenHungry">
+            <li Class="VEF.AnimalBehaviours.CompProperties_DigWhenHungry">
               <customThingsToDig>
                 <li>Insectile_Meat</li>
               </customThingsToDig>
@@ -75,7 +75,7 @@
         <li Class="PatchOperationAdd">
           <xpath>Defs/ThingDef[defName="Pufferpig"]/comps</xpath>
           <value>
-            <li Class="AnimalBehaviours.CompProperties_DigWhenHungry">
+            <li Class="VEF.AnimalBehaviours.CompProperties_DigWhenHungry">
               <customThingsToDig>
                 <li>Gold</li>
               </customThingsToDig>
