@@ -1522,7 +1522,7 @@
   </ThingDef>
   <ThingDef ParentName="EggUnfertBase">
     <defName>EggCanCellUnFertilized</defName>
-    <label>can-cell egg (fert.)</label>
+    <label>can-cell egg (unfert.)</label>
     <description>An unfertilized can-cell egg. It can be eaten raw, but it's much better cooked.</description>
     <graphicData>
       <texPath>swanimals/Resource/EggInsectile</texPath>

@@ -5781,7 +5781,7 @@
     </statBases>
     <comps>
       <li Class="CompProperties_EggLayer">
-        <eggUnfertilizedDef>EggInsectileUnfertilized</eggUnfertilizedDef>
+        <eggUnfertilizedDef>EggCanCellUnFertilized</eggUnfertilizedDef>
         <eggFertilizedDef>EggCanCellFertilized</eggFertilizedDef>
         <eggFertilizationCountMax>1</eggFertilizationCountMax>
         <eggLayIntervalDays>4</eggLayIntervalDays>
@@ -9797,7 +9797,7 @@
       </li>
       <li>
         <bodyGraphicData>
-          <texPath>swanimals/Gualaart/Gualaar</texPath>
+          <texPath>swanimals/Gualaar/Gualaar</texPath>
           <drawSize>2.0</drawSize>
           <shadowData>
             <volume>(0.7, 0.6, 0.4)</volume>
@@ -19444,7 +19444,7 @@
     </tools>
     <comps>
       <li Class="CompProperties_EggLayer">
-        <eggUnfertilizedDef>EggInsectileUnfertilized</eggUnfertilizedDef>
+        <eggUnfertilizedDef>EggShyrackUnFertilized</eggUnfertilizedDef>
         <eggFertilizedDef>EggShyrackFertilized</eggFertilizedDef>
         <eggFertilizationCountMax>1</eggFertilizationCountMax>
         <eggLayIntervalDays>5</eggLayIntervalDays>

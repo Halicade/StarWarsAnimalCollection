@@ -1,5 +1,8 @@
 # Changelog for StarWarsAnimalCollection
 
+1.6.3 - Fixed some typos
+
+
 1.6.2 - Fix for Vanilla Expanded Framework namespace changes
 
 

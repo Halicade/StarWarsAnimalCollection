@@ -4,7 +4,7 @@
   "CanRemove": "2",
   "PreviewVersion": "1.6",
   "SocialImageSet": true,
-  "LastXmlCleaning": "2025-07-16T13:58:12.5129018+02:00",
+  "LastXmlCleaning": "2025-11-17T20:58:58.6179481+01:00",
   "SearchTags": [
     " animals",
     " collection"
@@ -13,6 +13,6 @@
   "Defs": true,
   "Assemblies": false,
   "LinesOfCode": 0,
-  "LinesOfXML": 1959825,
+  "LinesOfXML": 1959822,
   "CodeBaseSize": 99
 }
